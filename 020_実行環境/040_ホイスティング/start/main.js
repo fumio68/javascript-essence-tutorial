@@ -12,3 +12,5 @@ function a() {
 
 let b = 0;
 console.log(b);
+
+// 宣言と実行の順序
