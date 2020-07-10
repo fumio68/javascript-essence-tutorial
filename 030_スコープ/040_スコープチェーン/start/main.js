@@ -1,3 +1,4 @@
+// JSでは内側のスコープから変数を探す
 let a = 2;
 window.a = 4;
 function fn1() {
